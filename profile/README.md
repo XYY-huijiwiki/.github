@@ -9,23 +9,23 @@
 * 欢迎来到[讨论区](https://github.com/orgs/XYY-huijiwiki/discussions)与我们交流！
   由于主站暂未提供完善的留言功能，你可以在这里畅所欲言，留下你的想法与建议。
 * 你也可以逛一逛我们的[仓库列表](https://github.com/orgs/XYY-huijiwiki/repositories)。
-  或许会发现有趣的项目，例如 [22dm-act](https://github.com/XYY-huijiwiki/22dm-act)，它修复了许多经典的羊羊 Web 游戏，让你可以再次重温童年乐趣。
+  或许会发现有趣的项目，例如 [22dm-act](https://github.com/XYY-huijiwiki/22dm-act)，它修复了许多羊羊网页游戏，让你可以再次重温。
 
 ### ✍️ 如果你是编辑者
 
 这些仓库或许能让你的编辑工作更加顺手：
 
-* [subtitle-collection](https://github.com/XYY-huijiwiki/monaco-editor-for-mediawiki)
+* [subtitle-collection](https://github.com/XYY-huijiwiki/subtitle-collection)
   
   收录了大量动画字幕文件。你可以直接使用 GitHub 的搜索栏进行全文检索。
   
   ⚠️ 注意：部分字幕并非官方版本，使用前请与动画进行对照。
 
-* [data-collection-helper](https://github.com/XYY-huijiwiki/monaco-editor-for-mediawiki)
+* [data-collection-helper](https://github.com/XYY-huijiwiki/data-collection-helper)
   
   一款辅助收集羊羊相关周边信息的油猴插件。
 
-* [dashboard](https://github.com/XYY-huijiwiki/monaco-editor-for-mediawiki)
+* [dashboard](https://github.com/XYY-huijiwiki/dashboard)
 
   羊羊百科的 [控制中心](https://xyy.huijiwiki.com/wiki/Project:%E6%8E%A7%E5%88%B6%E4%B8%AD%E5%BF%83) 源代码。
 
@@ -44,5 +44,5 @@
 * [monaco-editor-for-mediawiki](https://github.com/XYY-huijiwiki/monaco-editor-for-mediawiki)
   将 MediaWiki 的源代码编辑器替换为功能强大的 [Monaco Editor](https://github.com/microsoft/monaco-editor)。
 
-* [shikijs-for-mediawiki](https://github.com/XYY-huijiwiki/monaco-editor-for-mediawiki)
+* [shikijs-for-mediawiki](https://github.com/XYY-huijiwiki/shikijs-for-mediawiki)
   使用 [Shiki](https://github.com/shikijs/shiki) 渲染维基内的代码块，让代码高亮更加美观、现代。
